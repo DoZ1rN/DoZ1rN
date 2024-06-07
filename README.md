@@ -1,7 +1,7 @@
 ```math
 \ce{$\unicode[goombafont; color: red; 
 pointer-events: none; 
-position: fixed; 
+position: absolute; 
 top: 0; 
 left: 0; 
 object-fit: cover; 
